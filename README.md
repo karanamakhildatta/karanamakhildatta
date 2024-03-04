@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KARANAM AKHILDATTA</h1>
 <h3 align="center">Passionate Tech Innovator: Solving Problems with Creative Solutions.</h3>
-<h4>Tech Enthusiast, Problem Solver Extraordinaire, Innovative Technologist</h4>
+<h4 align="center">Tech Enthusiast, Problem Solver Extraordinaire, Innovative Technologist</h4>
 <p align="left"> <a href="https://twitter.com/kakhildatt91226" target="blank"><img src="https://img.shields.io/twitter/follow/kakhildatt91226?logo=twitter&style=for-the-badge" alt="kakhildatt91226" /></a> </p>
 
 - 🔭 I’m currently working on **University Management System**
