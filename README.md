@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm KARANAM AKHILDATTA <br/>Tech Enthusiast <br/> Creative Coder <br/>  Innovative Technologist</h1>
-<h3 align="center">Passionate Tech Innovator: Solving Problems with Creative Solutions.</h3>
+<h1 align="center">Hi 👋, I'm KARANAM AKHILDATTA </h1>
+<h3 align="center"><br/>Tech Enthusiast <br/> Creative Coder <br/>  Innovative Technologist <br/> Passionate Tech Innovator: Solving Problems with Creative Solutions.</h3>
 <p align="left"> <a href="https://twitter.com/kakhildatt91226" target="blank"><img src="https://img.shields.io/twitter/follow/kakhildatt91226?logo=twitter&style=for-the-badge" alt="kakhildatt91226" /></a> </p>
 
 - 🔭 I’m currently working on **University Management System**
