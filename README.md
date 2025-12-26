@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Tech Innovator | Problem Solver with Creative Solutions | Software Developer at Wing</h3>
 <p align="left"> <a href="https://twitter.com/kakhildatt91226" target="blank"><img src="https://img.shields.io/twitter/follow/kakhildatt91226?logo=twitter&style=for-the-badge" alt="kakhildatt91226" /></a> </p>
 
-- 🔭 I’m currently working on **University Management System**
+- 🔭 I’m currently working on **PHP Framework**
 
 - 🌱 I’m currently learning **React, NEXTJs**
 
